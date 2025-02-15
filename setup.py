@@ -14,6 +14,6 @@ setup(
         "pandas",
         "Pillow",
         "scipy",
-        "opencv"
+        "opencv-python"
     ]
 )

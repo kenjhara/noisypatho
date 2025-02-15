@@ -13,7 +13,7 @@ In this repository, we demonstrate its functionality using [Breast Cancer Semant
   - pandas
   - Pillow
   - scipy
-  - opencv
+  - opencv-python
 
 ## Installation
 Install the library using the following command:
