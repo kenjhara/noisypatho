@@ -1,4 +1,5 @@
 # noisypatho: Create Noisy Annotations for Pathological Semantic Segmentation Data
+![](https://github.com/kenjhara/noisypatho/blob/main/noisypatho_logo.png)
 
 ## Overview
 **noisypatho** is a tool for generating artificially noisy annotations for pathological binarized segmentation tasks.  
