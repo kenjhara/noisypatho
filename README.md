@@ -100,7 +100,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## Citation
 If you use **noisypatho** in your research, please cite our paper, and/or provide a link to this GitHub repository.
-1. In preparation
+1. Harada K, Nomura Y, Komura D, Ishikawa S, Sakashita S. Label Noise in Pathological Segmentation is Overlooked, Leading to Potential Overestimation of Artificial Intelligence Models bioRxiv 2025.02.18.638843; doi: [10.1101/2025.02.18.638843](https://doi.org/10.1101/2025.02.18.638843)
 
 ## Reference
 1. Amgad M, Elfandy H, Hussein H, et al. Structured crowdsourcing enables convolutional segmentation of histology images. *Bioinformatics*. 2019;35(18):3461-3467. doi:[10.1093/bioinformatics/btz083](https://doi.org/10.1093/bioinformatics/btz083)
